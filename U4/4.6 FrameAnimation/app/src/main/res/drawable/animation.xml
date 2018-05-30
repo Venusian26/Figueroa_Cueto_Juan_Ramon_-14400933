@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false"
+    >
+
+    <item android:drawable="@drawable/ch_103_00_00" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_00_02" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_00_03" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_01_00" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_01_02" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_01_03" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_02_00" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_02_02" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_02_03" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_03_00" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_03_02" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_03_03" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_04_00" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_04_02" android:duration="500"></item>
+    <item android:drawable="@drawable/ch_103_04_03" android:duration="500"></item>
+</animation-list>
