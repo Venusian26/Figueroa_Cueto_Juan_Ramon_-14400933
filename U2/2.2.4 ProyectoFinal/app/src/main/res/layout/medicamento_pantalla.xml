@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/nombre_med"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nombre:"
+        android:inputType="textPersonName"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/pade_med"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Padecimiento:"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/inst_med"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Intrucciones:"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/fechcon_med"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Fecha consulta:"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/fecin_med"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Fecha de Inicio:"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/fecfin_med"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Fecha de fin:"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/vigencia_med"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Vigencia:"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/paciente_med"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Paciente Clave-Afiliacion:"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/añadir_med"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:text="Guardar Receta"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/ver_recetas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:text="Visualizar Recetas"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/boton_lista_recetas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:text="Listar Recetas"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+</LinearLayout>
