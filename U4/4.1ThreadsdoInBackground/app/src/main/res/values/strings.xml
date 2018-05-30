@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">4.1ThreadsdoInBackground</string>
+    <string name="iniciar_hilo">Iniciar Hilo</string>
+</resources>

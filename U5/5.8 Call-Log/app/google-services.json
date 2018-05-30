@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "938551467793",
+    "firebase_url": "https://provedor-e1718.firebaseio.com",
+    "project_id": "provedor-e1718",
+    "storage_bucket": "provedor-e1718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938551467793:android:a80d74102050215f",
+        "android_client_info": {
+          "package_name": "com.juego.juan.callllogjuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938551467793-4slplmhpnhbnmq5ilnh46rtd9hkd55fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juego.juan.callllogjuan",
+            "certificate_hash": "692c85b58610dc66e67bfb0b483cddfcc8971af6"
+          }
+        },
+        {
+          "client_id": "938551467793-kv9fioi4m5i1mka4uvqk32qnr35cqat7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS0mnHTnxoWxXrguJCIiy-czsrMCMyrmo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938551467793-kv9fioi4m5i1mka4uvqk32qnr35cqat7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
